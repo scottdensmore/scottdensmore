@@ -1,6 +1,6 @@
 
 ## 👋 Hi! I'm Scott
-I am senior director @GitHub working on awesome things! If I am not working I love learning new programming languages, working out, watching movies, spending time with family or playing [The Division](https://www.ubisoft.com/en-us/game/the-division).
+I am senior director @GitHub working on awesome things! If I am not working I love learning new programming languages, working out, watching movies, spending time with family or playing video games.
 
 🏢 [LinkedIn](https://www.linkedin.com/in/scott-densmore-b8a5031a)
 
