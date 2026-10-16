@@ -18,7 +18,7 @@ I am a **Senior Director @ Google** working on awesome things! When I'm not work
 
 ## ✨ A Few of My Favorite Things — 3D Holo-Deck
 
-> Each of my classic ASCII art favorites has been sculpted into a **3D model** with perspective projection, directional & specular shading, and animated 3D turntables—alongside downloadable binary `.stl` 3D meshes in [`./models/`](./models/).
+> My favorite classic computers and icons sculpted into **3D models** with perspective projection, directional & specular shading, and animated 3D turntables—alongside downloadable binary `.stl` 3D meshes in [`./models/`](./models/).
 
 <table width="100%">
   <tr>
@@ -32,6 +32,17 @@ I am a **Senior Director @ Google** working on awesome things! When I'm not work
       <sub><a href="./models/apple2.stl">🧊 View Interactive 3D Mesh (<code>apple2.stl</code>)</a></sub>
     </td>
     <td width="50%" align="center" valign="top">
+      <img src="./assets/c64-3d.svg" width="100%" alt="3D Commodore 64 Breadbin & 1541 Drive" />
+      <br />
+      <b>🟣 Commodore 64 &quot;Breadbin&quot; &amp; 1541 Drive (1982)</b>
+      <br />
+      <sub>The 8-bit legend—featuring the iconic taupe breadbin chassis, side function keys, 1702 monitor with the classic light-blue border &amp; BASIC V2 prompt, 3-voice SID 6581 synth, and 1541 floppy drive.</sub>
+      <br />
+      <sub><a href="./models/c64.stl">🧊 View Interactive 3D Mesh (<code>c64.stl</code>)</a></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
       <img src="./assets/macintosh-3d.svg" width="100%" alt="3D Apple Macintosh 128K" />
       <br />
       <b>🔵 Apple Macintosh 128K (1984)</b>
@@ -39,6 +50,15 @@ I am a **Senior Director @ Google** working on awesome things! When I'm not work
       <sub>The iconic all-in-one compact Mac with the smiling <i>Happy Mac</i> boot screen, 400K 3.5" microfloppy drive, keyboard, and one-button mouse that sparked decades of building native macOS &amp; iOS apps.</sub>
       <br />
       <sub><a href="./models/macintosh.stl">🧊 View Interactive 3D Mesh (<code>macintosh.stl</code>)</a></sub>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="./assets/amiga-3d.svg" width="100%" alt="3D Commodore Amiga & Boing Ball" />
+      <br />
+      <b>🟠 Commodore Amiga &amp; 1084S Boing Ball (1985)</b>
+      <br />
+      <sub>Custom coprocessor magic (Agnus, Denise &amp; Paula 4-channel sound)—complete with the sleek Amiga wedge keyboard, two-button &quot;Tank Mouse&quot;, Workbench 1.3, and the bouncing 3D checkered Boing Ball.</sub>
+      <br />
+      <sub><a href="./models/amiga.stl">🧊 View Interactive 3D Mesh (<code>amiga.stl</code>)</a></sub>
     </td>
   </tr>
   <tr>
@@ -86,6 +106,20 @@ I am a **Senior Director @ Google** working on awesome things! When I'm not work
  \ ------------------------------ /      | ::::::::::::::[]  ::: |
   \______________________________/       `-----------------------'
 
+   .----------------------------.        .------------------------------.
+   |  .----------------------.  |        |  .------------------------.  |
+   |  | **** C64 BASIC V2 ** |  |        |  | AMIGA WORKBENCH    [X] |  |
+   |  | 64K RAM SYSTEM       |  |        |  |       _.-""""-._       |  |
+   |  | READY.               |  |        |  |     .'  #    #  '.     |  |
+   |  | LOAD"*",8,1          |  |        |  |    /  #   ##   #  \    |  |
+   |  | _                    |  |        |  |    |    ##  ##    |    |  |
+   |  '----------------------'  |        |  |     '._  #  #  _.'     |  |
+   '----------------------------'        '------------------------------'
+  / C= COMMODORE 64          [*] \      / /// AMIGA            [P][D]   \
+ / [][][][][][][][][][][][] [F1]  \    / [F1][F2][F3][F4][F5] [F6]..[F10]\
+(  [][][][][__________][][] [F5]   )  (  [][][][][__________][][]  [NUM]  )
+ \_______________________________/    \__________________________________/
+
 .-.__      \ .-.  ___  __                  _____________________________________________
 |_|  '--.-.-(   \/\;;\_\.-._______.-.    //:::::::::::::::::::::::::::::::::::::::::::::\\
 (-)___     \ \ .-\ \;;\(   \       \ \  //:::_______:::::::::________::::::::::_____::::::\\
@@ -119,7 +153,7 @@ I am a **Senior Director @ Google** working on awesome things! When I'm not work
 
 | Domain | Languages &amp; Runtimes | Focus Areas |
 | :--- | :--- | :--- |
-| **Systems &amp; Retro Emulation** | `C++` · `Rust` · `Go` · `C` · `6502 BASIC` | Cycle-accurate arcade hardware, real-time audio synthesis (POKEY / AY-8910), Ebitengine &amp; Macroquad |
+| **Systems &amp; Retro Emulation** | `C++` · `Rust` · `Go` · `C` · `6502 BASIC` | Cycle-accurate arcade &amp; home computer hardware, real-time audio synthesis (SID / Paula / POKEY / AY-8910), Ebitengine &amp; Macroquad |
 | **Apple Platforms** | `Swift` · `SwiftUI` · `Objective-C` | Native macOS, iOS, iPadOS, watchOS &amp; visionOS apps, SwiftData, HealthKit |
 | **AI Agents, Cloud &amp; Web** | `Go` · `TypeScript` · `C#` · `Python` · `Ruby` | Autonomous Gemini agents, A2A protocol, Three.js / WebGL, Next.js, GCP |
 
