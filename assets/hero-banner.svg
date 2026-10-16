@@ -328,20 +328,20 @@
     <circle cx="52" cy="151" r="4.5" fill="#ef4444"/>
     <circle cx="66" cy="151" r="4.5" fill="#eab308"/>
     <circle cx="80" cy="151" r="4.5" fill="#22c55e"/>
-    <text x="98" y="154.5" class="term-cmt">scott@densmore: ~/workspace (zsh)</text>
+    <text x="98" y="154.5" class="term-cmt">scott@densmore: ~ (zsh)</text>
 
     <text x="50" y="178" class="term-prompt">❯</text>
-    <text x="66" y="178" class="term-cmd">cargo run --release --bin missile-command</text>
-    <text x="365" y="178" class="term-cmt"># Rust + 4-ch POKEY synth</text>
+    <text x="66" y="178" class="term-cmd">echo &quot;C++ • Rust • Go • Swift • C# • Obj-C • Ruby&quot;</text>
+    <text x="435" y="178" class="term-cmt"># Polyglot Stack</text>
 
     <text x="50" y="198" class="term-prompt">❯</text>
-    <text x="66" y="198" class="term-cmd">go run ./cmd/sre-agent --protocol=a2a</text>
-    <text x="365" y="198" class="term-cmt"># Gemini 3.8 Flash Agent</text>
+    <text x="66" y="198" class="term-cmd">LOAD &quot;*&quot;,8,1 &amp;&amp; RUN</text>
+    <text x="435" y="198" class="term-cmt"># 6502 &amp; MC68000</text>
 
     <text x="50" y="218" class="term-prompt">❯</text>
-    <text x="66" y="218" class="term-cmd">go-basic &lt; ROMS/SUPERSTARTREK.BAS</text>
-    <rect x="306" y="207" width="7" height="13" fill="#38bdf8" class="cursor-blink"/>
-    <text x="365" y="218" class="term-cmt"># 6502 Microsoft BASIC</text>
+    <text x="66" y="218" class="term-cmd">./launch_holodeck --mode=3d</text>
+    <rect x="262" y="207" width="7" height="13" fill="#38bdf8" class="cursor-blink"/>
+    <text x="435" y="218" class="term-cmt"># Ready.</text>
   </g>
 
   <!-- Outer Frame Border -->

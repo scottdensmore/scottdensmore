@@ -6,7 +6,6 @@
   <p>
     <a href="https://scottdensmore.com"><img src="https://img.shields.io/badge/Blog-scottdensmore.com-0ea5e9?style=for-the-badge&logo=rss&logoColor=white" alt="Blog" /></a>
     <a href="https://www.linkedin.com/in/scott-densmore-b8a5031a"><img src="https://img.shields.io/badge/LinkedIn-Scott_Densmore-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://github.com/scottdensmore?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Retro_%26_AI_Lab-22c55e?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
   </p>
 </div>
 
@@ -27,7 +26,7 @@ I am a **Senior Director @ Google** working on awesome things! When I'm not work
       <br />
       <b>🟢 Apple ][ Plus &amp; Dual Disk ][ (1979)</b>
       <br />
-      <sub>Where the 6502 journey began—complete with glowing P31 green phosphor CRT, Applesoft BASIC prompt, HIRES graphics, and Dual Disk ][ drives. Powers the inspiration behind <a href="https://github.com/scottdensmore/go-basic"><code>go-basic</code></a>.</sub>
+      <sub>Where the 6502 journey began—complete with glowing P31 green phosphor CRT, Applesoft BASIC prompt, HIRES graphics, and Dual Disk ][ drives.</sub>
       <br />
       <sub><a href="./models/apple2.stl">🧊 View Interactive 3D Mesh (<code>apple2.stl</code>)</a></sub>
     </td>
@@ -156,21 +155,6 @@ I am a **Senior Director @ Google** working on awesome things! When I'm not work
 | **Systems &amp; Retro Emulation** | `C++` · `Rust` · `Go` · `C` · `6502 BASIC` | Cycle-accurate arcade &amp; home computer hardware, real-time audio synthesis (SID / Paula / POKEY / AY-8910), Ebitengine &amp; Macroquad |
 | **Apple Platforms** | `Swift` · `SwiftUI` · `Objective-C` | Native macOS, iOS, iPadOS, watchOS &amp; visionOS apps, SwiftData, HealthKit |
 | **AI Agents, Cloud &amp; Web** | `Go` · `TypeScript` · `C#` · `Python` · `Ruby` | Autonomous Gemini agents, A2A protocol, Three.js / WebGL, Next.js, GCP |
-
----
-
-## 🕹️ Featured Builds &amp; Retro Lab
-
-| Project | Stack | Description |
-| :--- | :---: | :--- |
-| 🎯 [**missile-command**](https://github.com/scottdensmore/missile-command) | `Rust` `Macroquad` | Authentic 1980 Atari Missile Command arcade replica in Rust with real-time sound synthesis. |
-| ☄️ [**asteroids**](https://github.com/scottdensmore/asteroids) | `Go` `Ebitengine` | Vector-style 1979 Asteroids arcade recreation with wrapping physics and saucer AI. |
-| 🖖 [**super-star-trek**](https://github.com/scottdensmore/super-star-trek) | `Go` `C` `TUI` | Classic 1978 mainframe tactical strategy game rebuilt for modern terminals and the web. |
-| 💾 [**go-basic**](https://github.com/scottdensmore/go-basic) | `Go` `6502 BASIC` | Cross-platform interpreter for classic line-numbered Microsoft 8K BASIC. |
-| 🤖 [**agent-no-adk**](https://github.com/scottdensmore/agent-no-adk) | `Go` `Gemini` `A2A` | Autonomous SRE incident triage agent built natively in Go with the A2A protocol and Gemini. |
-| 🧠 [**agent-brain-visualizer**](https://github.com/scottdensmore/agent-brain-visualizer) | `Web` `JSONL` | Interactive web visualizer for AI agent execution transcripts and reasoning steps. |
-| 🎮 [**gemini-blackops**](https://github.com/scottdensmore/gemini-blackops) | `TypeScript` `Three.js` | 3D first-person shooter built with Three.js &amp; Vite, verified by 500+ Playwright E2E tests. |
-| 🧾 [**rcptpixie**](https://github.com/scottdensmore/rcptpixie) | `Go` `Ollama` | Privacy-first CLI that renames PDF receipts and documents using a local LLM. |
 
 ---
 
