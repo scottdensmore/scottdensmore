@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="28" height="28">
+  <defs>
+    <style>
+      .holo-cube { animation: hover3d 2.8s ease-in-out infinite; }
+      @keyframes hover3d { 0%, 100% { transform: translateY(0px); } 50% { transform: translateY(-2.5px); } }
+    </style>
+  </defs>
+  <rect x="2" y="2" width="28" height="28" rx="7" fill="#0f172a" stroke="#0ea5e9" stroke-opacity="0.6" stroke-width="1.5"/>
+  <!-- Hologram Projector Base & Rays -->
+  <ellipse cx="16" cy="25.5" rx="8.5" ry="2.2" fill="#0284c7" fill-opacity="0.35" stroke="#38bdf8" stroke-width="1"/>
+  <path d="M 8.5 25 L 5.5 11 M 23.5 25 L 26.5 11" stroke="#38bdf8" stroke-opacity="0.28" stroke-width="1" stroke-dasharray="2 2"/>
+  <!-- 3D Isometric Cube -->
+  <g class="holo-cube">
+    <polygon points="16,6 24,10.5 16,15 8,10.5" fill="#7dd3fc" stroke="#0f172a" stroke-width="0.8" stroke-linejoin="round"/>
+    <polygon points="8,10.5 16,15 16,23 8,18.5" fill="#0ea5e9" stroke="#0f172a" stroke-width="0.8" stroke-linejoin="round"/>
+    <polygon points="16,15 24,10.5 24,18.5 16,23" fill="#0369a1" stroke="#0f172a" stroke-width="0.8" stroke-linejoin="round"/>
+  </g>
+</svg>

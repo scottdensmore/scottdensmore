@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="20" height="20">
+  <rect x="1.5" y="1.5" width="21" height="21" rx="6" fill="#0f172a" stroke="#f43f5e" stroke-opacity="0.7" stroke-width="1.2"/>
+  <!-- Stylized X-Wing S-Foils / Starbird Crest -->
+  <path d="M 12 4 L 13.6 10.5 L 19 7.5 L 15 13 L 18.5 17.5 L 12 15.2 L 5.5 17.5 L 9 13 L 5 7.5 L 10.4 10.5 Z" fill="#ef4444"/>
+  <circle cx="12" cy="14" r="2" fill="#fecdd3"/>
+</svg>

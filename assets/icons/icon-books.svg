@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="28" height="28">
+  <defs>
+    <style>
+      .spark { animation: glowPulse 2.4s ease-in-out infinite; }
+      @keyframes glowPulse { 0%, 100% { opacity: 0.45; transform: translateY(0px); } 50% { opacity: 1; transform: translateY(-1.5px); } }
+    </style>
+  </defs>
+  <rect x="2" y="2" width="28" height="28" rx="7" fill="#0f172a" stroke="#f59e0b" stroke-opacity="0.6" stroke-width="1.5"/>
+  <!-- 3D Open Book Left & Right Pages -->
+  <polygon points="16,11 6.5,8.5 6.5,22.5 16,25" fill="#fde68a" stroke="#0f172a" stroke-width="0.9" stroke-linejoin="round"/>
+  <polygon points="16,11 25.5,8.5 25.5,22.5 16,25" fill="#f59e0b" stroke="#0f172a" stroke-width="0.9" stroke-linejoin="round"/>
+  <polygon points="6.5,22.5 16,25 25.5,22.5 25.5,24.5 16,27 6.5,24.5" fill="#b45309" stroke="#0f172a" stroke-width="0.7" stroke-linejoin="round"/>
+  <!-- Floating Holo-Diamond above book -->
+  <polygon points="16,4.5 18.5,7 16,9.5 13.5,7" fill="#38bdf8" class="spark"/>
+</svg>

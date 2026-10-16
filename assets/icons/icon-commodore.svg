@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="20" height="20">
+  <rect x="1.5" y="1.5" width="21" height="21" rx="6" fill="#0f172a" stroke="#6366f1" stroke-opacity="0.7" stroke-width="1.2"/>
+  <!-- Outer C ring -->
+  <path d="M 14.5 6.2 A 6.2 6.2 0 1 0 14.5 17.8 L 14.5 14.8 A 3.4 3.4 0 1 1 14.5 9.2 Z" fill="#38bdf8"/>
+  <!-- Upper & Lower "=" flags -->
+  <polygon points="15.2,8.8 20.2,8.8 18.8,11.3 15.2,11.3" fill="#3b82f6"/>
+  <polygon points="15.2,12.7 18.8,12.7 20.2,15.2 15.2,15.2" fill="#ef4444"/>
+</svg>
